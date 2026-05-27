@@ -40,7 +40,7 @@ p:last-child {
 
 .max-width-wrapper {
   margin-inline: auto;
-  max-width: 800;
+  max-width: 800px;
 }
 
 strong {
